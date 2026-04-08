@@ -1,0 +1,6 @@
+test.py
+.venv/
+/Tirgul
+**/.ipynb_*
+__pycache__/
+activate.sh
